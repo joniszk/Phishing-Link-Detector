@@ -1,0 +1,1 @@
+API_KEY = "insert_your_google_api_key_here" #Follow instructions in read me to obtain your own API Key
